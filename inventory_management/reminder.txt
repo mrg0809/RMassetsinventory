@@ -1,0 +1,28 @@
+Item:
+Name
+Type
+Manufacturer
+Model
+Status
+User
+Location
+InventoryID
+Serial number
+
+
+Type:
+Access point
+Computer
+Firewall
+Headseat
+IP Camera
+Monitor
+Router
+Phone
+Laptop
+Tablet
+Switch
+Server
+Printer
+DVR
+
