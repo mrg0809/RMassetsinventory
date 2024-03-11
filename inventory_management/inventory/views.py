@@ -23,8 +23,8 @@ class SignUpView(View):
         if form.is_valid():
             form.save()
             user = authenticate(
-                username=form.cleaned.data['username'],
-                password=form.cleaned.data['password1']
+                username=form.cleaned_data['username'],
+                password=form.cleaned_data['password1']
             )
 
             login(request, user)

@@ -25,4 +25,10 @@ Switch
 Server
 Printer
 DVR
+Speaker
+Microphone
+Scanner
+NAS
 
+
+Manufacturer:
